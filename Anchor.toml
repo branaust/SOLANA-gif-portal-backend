@@ -1,5 +1,5 @@
-[programs.localnet]
-myepicproject = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+myepicproject = "FncsSwfyvedwjezBW2Ss4ryCrNPFif71p5DJRo2LXZg6"
 
 [registry]
 url = "https://anchor.projectserum.com"
